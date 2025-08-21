@@ -1,6 +1,6 @@
 # SocialBit Ambassador — Parse & Visualize
-# August 21, 2025
-# Amar Dhand
+August 21, 2025
+Amar Dhand
 
 This R script reads a SocialBit CSV and produces three types of figures:
 
