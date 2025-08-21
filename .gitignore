@@ -1,0 +1,18 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data: ignore everything except sample_data.csv in the repo root
+*.csv
+!sample_data.csv
+*.tsv
+*.xlsx
+*.xls
+data/
